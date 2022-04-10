@@ -1,0 +1,41 @@
+.cont{
+    /* border: 1px solid red; */
+    margin: auto;
+    width: 39%;
+    height: 450px;
+    margin-top: 50px;
+}
+
+.a{
+    /* border: 1px solid red ; */
+    width: 35%;
+    padding-top: 20px;
+}
+.c{
+    /* border: 1px solid red; */
+    margin-top: -5px;
+    width: 35%;
+    margin-left: 5%;
+}
+.e{
+    /* border: 1px solid red; */
+    width: 28%;
+    /* margin-left: 1%; */
+}
+.d{
+    /* border: 1px solid red; */
+    width: 30%;
+    margin-left: 6%;
+}
+img{
+    /* border: 1px solid red; */
+    height: 60px;
+    width: 60px;
+    margin-left: 300px;
+    margin-top: -1000px;
+  }
+
+.cont3{
+    margin-left: 300px;
+    margin-top: -40px;
+}
